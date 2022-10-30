@@ -1,0 +1,15 @@
+ipywidgets
+notebook
+#to check args pass is correct or not
+ensure
+py-youtube
+
+#dev requirements
+pytest
+tox
+#for formatting
+black
+#
+flake8
+#for type check
+mypy
